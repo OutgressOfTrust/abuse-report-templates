@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: OutgressOfTrust/abuse-report-templates: Handy templates to create a Ingress abuse report from.
+Upstream-Contact: Issues · OutgressOfTrust/abuse-report-templates <https://github.com/OutgressOfTrust/abuse-report-templates/issues>
+Source: https://github.com/OutgressOfTrust/abuse-report-templates
+
+Files:
+ *README.md
+ */README.md
+Copyright: 2024 Ｖ字龍(Vdragon) <Vdragon.Taiwan@gmail.com>
+License: CC-BY-4.0
